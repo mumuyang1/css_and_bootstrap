@@ -1,0 +1,21 @@
+    h1 , td{
+
+        text-align: center;
+    
+    }
+
+
+    table {
+
+        width: 100%;
+    }
+
+    span.red{
+
+      color: red;
+    }
+
+    span.green{
+
+      color: green;
+    }
